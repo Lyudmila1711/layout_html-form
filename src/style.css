@@ -1,10 +1,23 @@
-label {
+.persinfo,
+.registration,
+.favourites,
+.adinfo {
   display: block;
   margin-bottom: 10px;
 }
 
 fieldset {
   margin-bottom: 20px;
+}
+
+.love-cats {
+  display: inline;
+}
+
+.favcolor {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  display: block;
 }
 
 fieldset > label:last-child {
