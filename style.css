@@ -1,25 +1,20 @@
-.persinfo,
-.registration,
-.favourites,
-.adinfo {
+.test-form > label {
   display: block;
   margin-bottom: 10px;
 }
 
-fieldset {
+.test-form {
   margin-bottom: 20px;
 }
 
-.love-cats {
+.test-form .love-cats {
   display: inline;
 }
 
 .favcolor {
   margin-top: 10px;
-  margin-bottom: 10px;
-  display: block;
 }
 
-fieldset > label:last-child {
+.test-form > label:last-child {
   margin-bottom: 0;
 }
